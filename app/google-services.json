@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "945226723257",
+    "project_id": "dr-moto-903c8",
+    "storage_bucket": "dr-moto-903c8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945226723257:android:23a829dc685118af231068",
+        "android_client_info": {
+          "package_name": "com.example.drmoto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzNjRrqkrBAFjeXpYFzzKc-YnEjBgqHM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
